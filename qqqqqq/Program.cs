@@ -27,7 +27,7 @@ void Task64()
     }
     Test1(M, N);
 }
-//Task64();
+Task64();
 
 void Task66()
 {
@@ -47,7 +47,7 @@ void Task66()
     }
     Test2(M, N);
 }
-//Task66();
+Task66();
 
 void Task68()
 {
